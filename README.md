@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vitadek
 - 👀 I’m interested in Information Security
-- 🌱 I’m currently learning Python and PowerShell
+- 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on TUI based Penetration Testing tools
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/diego-uy-6b79a021a/
 
