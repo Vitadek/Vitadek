@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on TUI based Penetration Testing tools
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/diego-uy-6b79a021a/
 
+
+Trying to go to Japan one day! じょほろにん　
+
 <!---
 Vitadek/Vitadek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
